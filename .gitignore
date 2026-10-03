@@ -1,0 +1,15 @@
+node_modules/
+.chromium-profile/
+inventory/
+test-results/
+*.log
+.env
+.env.*
+!.env.example
+/test/live-samples.json
+/test/download-live.js
+/PHOTO-FIX.md
+/SCROLL-FIX.md
+/SKIP-DOWNLOADED.md
+
+/circlehand.config.json
